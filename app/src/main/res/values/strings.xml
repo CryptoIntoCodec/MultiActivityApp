@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MultiActivityApp</string>
+    <string name="log_in">Demo Restaurant</string>
+    <string name="email">EMail</string>
+    <string name="login">Contact Us</string>
+    <string name="password">Password</string>
+    <string name="quantity">Quantity</string>
+    <string name="quantityvalue">0</string>
+    <string name="order">Order</string>
+    <string name="price">0</string>
+    <string name="textview">price</string>
+    <string name="string_textview">Price</string>
+    <string name="val">+</string>
+    <string name="Dec">-</string>
+</resources>
